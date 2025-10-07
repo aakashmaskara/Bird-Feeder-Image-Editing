@@ -134,7 +134,7 @@ Unzip or place `origIm1.jpg` … `origIm20.jpg` in the repo root (or unzip `mySa
 | `replaceBirds.py` | Generative inpainting to add **different birds**; save `-birdsReplaced.jpg`. |
 | `substituteSquirrels.py` | Generative inpainting to add **squirrels/chipmunks**; save `-NowWithSquirrels.jpg`. |
 | `generateBirdFeederImagesFromText.py` | Text-to-image generation of feeder scenes; save `generatedImage_#.png`. |
-| `Applied_ML_HW4_Report.pdf` | Project write-up: design, prompts, thresholds, and comparisons. |
+| `Bird_Feeder_Image_Editing.pdf` | Project write-up: design, prompts, thresholds, and comparisons. |
 | `mySampleImages.zip` | (Optional) Example input set (`origIm1.jpg` … `origIm20.jpg`). |
 
 ---
